@@ -1,0 +1,114 @@
+body{
+   background-color: black;
+   font-family: Times New Roman;
+   font-size: large;
+   line-height: 1.2em;
+   text-align: center;
+}
+
+.header {
+            background-color: black;
+            height: 700px;
+            background-image: url();
+            background-repeat: no-repeat;
+            padding: 5px;
+            margin: 5px;
+}
+
+.logo {
+          padding-top: 70px;
+
+}
+
+.motto{
+           color:white;
+           font-family: Kaushan script;
+           font-weight: lighter;
+           font-size: 3.125rem;
+
+}
+
+.teamintro {
+                  background-color: #3A4750;
+                  padding: 5px;
+                  margin: 5px;
+}
+
+.games {
+                  background-color: #3A4750;
+                  padding: 5px;
+                  margin: 5px;
+                  width: 50%;
+                  display: table-cell;
+}
+
+.aboutme {
+               background-color: #3A4750;
+               padding: 5px;
+               margin: 5px;
+}
+
+.achievements{
+        width: 50%;
+        background-color: #3A4750;
+        padding: 5px;
+        margin: 5px;
+        display: table-cell;
+}
+
+.footer {
+            color: white;
+}
+
+#sidebar {
+             width: 100px;
+             display: table-cell;
+             background-color: #3A4750;
+}
+
+span {
+        border-bottom: 2px solid black;
+}
+
+#main {
+           display: table-cell;
+}
+
+#tablecontainer {
+                          display: table;
+                          border-spacing: 5px;
+}
+
+#tablerow {
+                 display: table-row;
+}
+
+#tablecontainer1 {
+                          display: table;
+                          border-spacing: 5px;
+}
+
+#tablerow1 {
+                 display: table-row;
+}
+
+h2 {
+     color: white;
+}
+
+h3 {
+    color: white;
+}
+
+a:link {
+           color: red;
+}
+
+a:visited {
+            color: red;
+}
+
+a:hover {
+             color: black;
+             background-color: red;
+}
